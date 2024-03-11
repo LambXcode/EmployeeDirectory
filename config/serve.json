@@ -1,0 +1,6 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/spfx-serve.schema.json",
+  "port": 4321,
+  "https": true,
+  "initialPage": "https://bluespec.sharepoint.com/sites/GroupIntranet/_layouts/workbench.aspx"
+}
